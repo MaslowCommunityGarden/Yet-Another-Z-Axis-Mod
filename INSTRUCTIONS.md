@@ -27,9 +27,9 @@
     3. Tighten the rod holders using the two 3mm M3 screws you pre-positioned earlier.
     4. Tighten the shaft coupler on the lead screw. You probably will have to use GC to re-orient the shaft so you can reach the set screw.
     5. ![Axis cap placed](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/master/placing_axis_cap2.jpg)
-    6. The shaft coupler also has two circumfrence screws that need to be tightened. Again, use GC to rotate these screws so you can reach them and tighten.
+    6. The shaft coupler also has two circumference screws that need to be tightened. Again, use GC to rotate these screws so you can reach them and tighten.
     7. ![Securing coupler](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/master/securing_coupler.jpg)
-8. Mount the bottom section of the black z-bracket (from the stock kit) to the sled and secure to the upper section with 4 M3 screws/nuts (these came with the stock kit).
+8. Mount the bottom section of the black z-bracket (from the stock kit) to the sled and secure to the upper section with 4 M3 screws/nuts (these came with the stock kit). While you're here, go ahead and fully tighten the two screws on the face of the square block / z-bracket.
 5. Attach the router clamp (the two-piece circular collar) to the router itself. Some notes on that:
     1. This is a tricky step, at least if you have to work vertically as I did. If you can flip your sled 90 degrees or so so the router is laying down instead of being vertical, it may make things easier.
     2. If you had previously greased your router body, as is recommended for the stock kit, clean that grease off. We don't need it slipping inside the collar.
