@@ -9,9 +9,8 @@
 	* 1x 48x12x27mm 8mm pillow block bearing
 	* (You do not need the shaft couplers, plus there is an extra pillow block, 2 extra rail support blocks, and 2 extra bearings / linear slide blocks)
 * One 6mm to 8mm shaft coupler, like <a href="https://smile.amazon.com/gp/product/B06X9W3TNS">this one.</a>
-* An assortment of <a href="https://smile.amazon.com/Stainless-Assortment-Precise-Beautiful-Printed/dp/B0714FLXND">M3 screws & nuts.
+* An assortment of <a href="https://smile.amazon.com/Stainless-Assortment-Precise-Beautiful-Printed/dp/B0714FLXND">M3 screws & nuts.</a>
 * You will also need some square M3 nuts, as well as 2 M8 ones. Something like <a href="https://smile.amazon.com/gp/product/B06Y3NBT4Z">this</a> should cover it.
 * 2x M8 x 30mm hex screws (<a href="https://smile.amazon.com/Machine-Phillips-Threaded-M8-1-25-Threads/dp/B00917MQC8">phillips head</a> or <a href="https://smile.amazon.com/M8-1-25-Socket-Screws-Stainless-Machine/dp/B07GCMGP8S">"button" style</a> [that accepts a hex driver]).
 * 4x M6 x 20mm screws with nuts (for the rail support blocks)
 * 2x M5 x 15mm screws with nuts (for the pillow block)
-
