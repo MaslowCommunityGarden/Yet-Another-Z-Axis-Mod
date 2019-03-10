@@ -49,17 +49,17 @@
     0. ![Upper Half Assembled (2)](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/upper_half_assembled_2.jpg)
     0. Finally, insert two M3 square nuts in the bottom piece of the lower-half and place two 8mm M3 screws in them. There are two slots on the ends of the bottom piece to accept the nuts. (Note they will not screw all the way in; they are designed to stick out about 2 mm or so for cleating the dust sleeve.)
     0. ![Install Cleating Screws](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/install_cleating_screws.jpg)
-        0. It's best if you try to get the cleating screws at about the right depth now; to do that, fit the bottom half of the dust sleeve (v3_dust_sleeve.stl) on the bottom of the clamp piece, and screw the screw in snugly, then **back it off 1/2 turn**. Now remove the dust sleeve, it goes on only when operating the rig.
-        0. ![Install Cleating Screws (2)](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/install_cleating_screws_2.jpg)
+    0. It's best if you try to get the cleating screws at about the right depth now; to do that, fit the bottom half of the dust sleeve (v3_dust_sleeve.stl) on the bottom of the clamp piece, and screw the screw in snugly, then **back it off 1/2 turn**. Now remove the dust sleeve, it goes on only when operating the rig.
+    0. ![Install Cleating Screws (2)](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/install_cleating_screws_2.jpg)
 0. Install the upper half of the router clamp:
     0. Place the "bottom" piece (the one with the dust sleeve attached) on the rails. Some notes:
-        0. Be gentle, if you come in at too much of an angle, you can force ball bearings out of your linear bearing.
-        0. You might have to gently straighten out the tops of the linear rods to seat the bearings correctly.
-        0. Once you have the bearings on, you will need to push down a little to get the trapezoidal nut to engage the lead screw.
-        0. Once the lead screw is engaged, you can move the clamp up and down by turning the lead screw manually.
-        0. ![Install Upper Half](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/install_upper_half.jpg)
-        0. Now place the other top-half piece, making sure to flip it so the bearing holders are touching each other, as shown.
-        0. ![Install Upper Half (2)](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/install_upper_half_2.jpg)
+        a. Be gentle, if you come in at too much of an angle, you can force ball bearings out of your linear bearing.
+        a. You might have to gently straighten out the tops of the linear rods to seat the bearings correctly.
+        a. Once you have the bearings on, you will need to push down a little to get the trapezoidal nut to engage the lead screw.
+        a. Once the lead screw is engaged, you can move the clamp up and down by turning the lead screw manually.
+        a. ![Install Upper Half](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/install_upper_half.jpg)
+        a. Now place the other top-half piece, making sure to flip it so the bearing holders are touching each other, as shown.
+        a. ![Install Upper Half (2)](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/install_upper_half_2.jpg)
 0. Assemble the Axis Cap:
     0. Find the 3D printed part for the Axis Cap (v3_axis_cap.stl)
     0. Insert two M3x8mm screws and *square nuts* in the rod holders. (If you don't use square nuts, you will have to hold the nuts with needlenose pliers when tightening them.) **Leave these loose / not fully tightened.**
