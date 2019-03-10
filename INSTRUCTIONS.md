@@ -1,12 +1,12 @@
 ## Assembly
 
-0. Print one set of all 3D printed parts. Where you need multiples of any given part, the provided STL files include the correct number of parts already. Some notes:
-   0. PETG, ABS, or PLA should all be fine. I used PETG for mine.
-   0. Default infill should be 20-25% or so, EXCEPT for the router body clamps (v3_body_clamp_upper_half_pair.stl & v3_body_clamp_lower_half_braced_pair.stl). Print those with at least 50% infill for clamping strength.
-   0. You should not require supports on any parts EXCEPT the dust shroud (v3_dust_shroud (use supports).stl). Supports will be necessary unless you have a very dialed-in printer.
-   0. Some post-printing cleanup may be required, especially on:
-      0. the slots where M3 square nuts slide in
-      0. the alignment pegs at the bottom of the rods base (v3_rods_base.stl) and the dust shroud (v3_dust_shroud (use supports).stl)
+1. Print one set of all 3D printed parts. Where you need multiples of any given part, the provided STL files include the correct number of parts already. Some notes:
+    1. PETG, ABS, or PLA should all be fine. I used PETG for mine.
+    2. Default infill should be 20-25% or so, EXCEPT for the router body clamps (v3_body_clamp_upper_half_pair.stl & v3_body_clamp_lower_half_braced_pair.stl). Print those with at least 50% infill for clamping strength.
+    3. You should not require supports on any parts EXCEPT the dust shroud (v3_dust_shroud (use supports).stl). Supports will be necessary unless you have a very dialed-in printer.
+    4. Some post-printing cleanup may be required, especially on:
+        0. the slots where M3 square nuts slide in
+        0. the alignment pegs at the bottom of the rods base (v3_rods_base.stl) and the dust shroud (v3_dust_shroud (use supports).stl)
 1. Cut a sled blank. I cut mine on a table saw out of some scrap plywood; just find a way to cut a ~17" roughly-circular blank. 
 0. ![Sled Blank](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/sled_blank.jpg)
 2. Mark the center on your sled blank and cut a 2 - 2.5" hole as close to center as possible.
