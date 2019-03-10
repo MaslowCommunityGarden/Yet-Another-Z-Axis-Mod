@@ -37,8 +37,8 @@
 0. Ditto the dust shroud. It should look like this when partially assembled:
 0. ![Partially Assembled](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/partially_assembled.jpg)
 0. Now prepare the router clamp as follows:
-    0. There are four parts to the router clamp, two per STL file (v3_body_clamp_upper_half_pair.stl & v3_body_clamp_lower_half_braced_pair.stl).
-    0. The two parts of the "lower half" join together with the cylindrical pegs, one to the other. Join them together now. (They will probably never come apart once joined, but if you want to be extra safe, put some CA glue in the holes before you join them. Also: ignore that in the photo both halves have that smiley-face cutout; yours will only have that on the "bottom" piece.)
+    0. There are four parts to the router clamp, two per STL file (v3_body_clamp_upper_half_pair.stl &amp; v3_body_clamp_lower_half_braced_pair.stl).
+    0. The two parts of the "lower half" join together with the cylindrical pegs, one to the other. Join them together now. (They will probably never come apart once joined, but if you want to be extra safe, put some CA glue in the holes before you join them.) (Note: ignore that in the photo both halves have that smiley-face cutout; yours will only have that on the "bottom" piece.)
     0. ![Join Lower Half](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/join_lower_half.jpg)
     0. The two parts of the "upper" half don't physically join, but you will install them bearing-holder to bearing-holder.
     0. Insert the four 8UU bearings in the bearing holders in the "upper" halves and tighten down with M3x8mm screws and square nuts.
