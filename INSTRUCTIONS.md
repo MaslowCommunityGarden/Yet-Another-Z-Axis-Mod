@@ -26,7 +26,6 @@
 0. Drill and countersink (from below) all the holes you marked.
 0. Once you've drilled all of your holes, you can remove the bullseye from the rods base. Just use an X-acto knife or similar to snip it off close to the base:
     0. ![Remove the Bullseye](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/remove_bullseye.jpg)
-
 2. Now mount the two rail support blocks (left and right sides) and the pillow block (center) in the rods base and tighten them down fully. Some notes:
     0. Make sure to come up from below with your bolts.
     0. The pillow-block (center) uses M5 bolts. The rail support blocks take M6 bolts.
@@ -38,16 +37,16 @@
 0. Ditto the dust shroud. It should look like this when partially assembled:
 0. ![Partially Assembled](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/partially_assembled.jpg)
 0. Now prepare the router clamp as follows:
-    0. There are four parts to the router clamp, two per STL file (v3_body_clamp_upper_half_pair.stl & v3_body_clamp_lower_half_braced_pair.stl).
-    0. The two parts of the "lower half" join together with the cylindrical pegs, one to the other. Join them together now. (They will probably never come apart once joined, but if you want to be extra safe, put some CA glue in the holes before you join them.) (Note: ignore that in the photo both halves have that smiley-face cutout; yours will only have that on the "bottom" piece.)
-    0. ![Join Lower Half](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/join_lower_half.jpg)
-    0. The two parts of the "upper" half don't physically join, but you will install them bearing-holder to bearing-holder.
-    0. Insert the four 8UU bearings in the bearing holders in the "upper" halves and tighten down with M3x8mm screws and square nuts.
-    0. Insert the lead-screw trapezoidal nut in the *bottom* piece of the "upper" half (the one with four additional M3 holes in it for bolting on the dust sleeve). This requires 4 M3x25mm screws and nuts.
-    0. Use four M3x20mm screws and nuts to bolt the top half of the dust sleeve onto the bottom of the upper-half bottom:
-    0. ![Upper Half Assembled (1)](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/upper_half_assembled_1.jpg)
-    0. ![Upper Half Assembled (2)](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/upper_half_assembled_2.jpg)
-    0. Finally, insert two M3 square nuts in the bottom piece of the lower-half and place two 8mm M3 screws in them. There are two slots on the ends of the bottom piece to accept the nuts. (Note they will not screw all the way in; they are designed to stick out about 2 mm or so for cleating the dust sleeve.)
+0. There are four parts to the router clamp, two per STL file (v3_body_clamp_upper_half_pair.stl & v3_body_clamp_lower_half_braced_pair.stl).
+0. The two parts of the "lower half" join together with the cylindrical pegs, one to the other. Join them together now. (They will probably never come apart once joined, but if you want to be extra safe, put some CA glue in the holes before you join them.) (Note: ignore that in the photo both halves have that smiley-face cutout; yours will only have that on the "bottom" piece.)
+0. ![Join Lower Half](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/join_lower_half.jpg)
+0. The two parts of the "upper" half don't physically join, but you will install them bearing-holder to bearing-holder.
+0. Insert the four 8UU bearings in the bearing holders in the "upper" halves and tighten down with M3x8mm screws and square nuts.
+0. Insert the lead-screw trapezoidal nut in the *bottom* piece of the "upper" half (the one with four additional M3 holes in it for bolting on the dust sleeve). This requires 4 M3x25mm screws and nuts.
+0. Use four M3x20mm screws and nuts to bolt the top half of the dust sleeve onto the bottom of the upper-half bottom:
+0. ![Upper Half Assembled (1)](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/upper_half_assembled_1.jpg)
+0. ![Upper Half Assembled (2)](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/upper_half_assembled_2.jpg)
+0. Finally, insert two M3 square nuts in the bottom piece of the lower-half and place two 8mm M3 screws in them. There are two slots on the ends of the bottom piece to accept the nuts. (Note they will not screw all the way in; they are designed to stick out about 2 mm or so for cleating the dust sleeve.)
     0. ![Install Cleating Screws](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/install_cleating_screws.jpg)
     0. It's best if you try to get the cleating screws at about the right depth now; to do that, fit the bottom half of the dust sleeve (v3_dust_sleeve.stl) on the bottom of the clamp piece, and screw the screw in snugly, then **back it off 1/2 turn**. Now remove the dust sleeve, it goes on only when operating the rig.
     0. ![Install Cleating Screws (2)](https://raw.githubusercontent.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/Version-3/install_cleating_screws_2.jpg)
