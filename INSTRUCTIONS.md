@@ -1,5 +1,7 @@
 ## Assembly
 
+(**NOTE**: These instructions are available to download at https://github.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/blob/master/Build%20Instructions.pdf. Github is not honoring all of my markdown around bullets, so the online instructions are formatted a bit funky.)
+
 1. Print one set of all 3D printed parts. Where you need multiples of any given part, the provided STL files include the correct number of parts already. Some notes:
     1. PETG, ABS, or PLA should all be fine. I used PETG for mine.
     2. Default infill should be 20-25% or so, EXCEPT for the router body clamps (v3_body_clamp_upper_half_pair.stl & v3_body_clamp_lower_half_braced_pair.stl). Print those with at least 50% infill for clamping strength.
