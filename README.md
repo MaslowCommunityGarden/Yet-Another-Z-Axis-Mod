@@ -1,3 +1,5 @@
+# Yet Another Z-Axis Mod
+
 I had gotten the z-axis kit with my Maslow originally, but I frequently found it off of spec when cutting. I tried all the simple fixes (bungee cord, gluing a bushing to the frame to keep alignment), and while they helped, I still had trouble with incomplete cuts way too often.
 
 So I designed my own Z-axis kit that extends the stock solution, but doesn't rely on the Ridgid router's collar and it's not-intended-for-this-purpose mechanics.
