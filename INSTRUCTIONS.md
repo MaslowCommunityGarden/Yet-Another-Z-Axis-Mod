@@ -1,5 +1,7 @@
 ## Assembly
 
+(**IMPORTANT NOTE**: There are now two alternate versions of the dust shroud and dust sleeve. If you have the ring kit or the original "L" brackets as your linkage system, then print the "standard" dust shroud and dust sleeve, which you will find in the main "Project Files" folder (v3_dust_shroud (use supports).stl and v3_dust_sleeve.stl). If you have a triangulation linkage kit (e.g. https://www.etsy.com/listing/558743441/maslow-triangulation-linkage-kit), you may need the alternate versions of the dust shroud (v3_dust_shroud_alternate_version.stl) and dust sleeve (v3_dust_sleeve_alternate_version.stl). You'll find those parts in the "Individual Parts" sub-folder. Please be sure to plan out where your linkage system attaches and then decide which version you need before you start printing, as it takes upwards of 6 hours to print those models out.)
+
 (**NOTE**: These instructions are available to download at https://github.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/raw/master/Build%20Instructions.pdf. Github is not honoring all of my markdown around bullets, so the online instructions are formatted a bit funky.)
 
 1. Print one set of all 3D printed parts. Where you need multiples of any given part, the provided STL files include the correct number of parts already. Some notes:
