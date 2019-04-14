@@ -4,7 +4,7 @@
 
 1. Print one set of all 3D printed parts. Where you need multiples of any given part, the provided STL files include the correct number of parts already. Some notes:
     1. PETG, ABS, or PLA should all be fine. I used PETG for mine.
-    2. Default infill should be 20-25% or so, EXCEPT for the router body clamps (v3_body_clamp_upper_half_pair.stl & v3_body_clamp_lower_half_braced_pair.stl). Print those with at least 50% infill for clamping strength.
+    2. Default infill should be 20-25% or so, EXCEPT for the router body clamps (v3_body_clamp_back_half_pair.stl & v3_body_clamp_front_half_braced_pair.stl). Print those with at least 50% infill for clamping strength.
     3. You should not require supports on any parts EXCEPT the dust shroud (v3_dust_shroud (use supports).stl). Supports will be necessary unless you have a very dialed-in printer.
     4. Some post-printing cleanup may be required, especially on:
         * The slots where M3 square nuts slide in
@@ -39,7 +39,7 @@
 0. Ditto the dust shroud. It should look like this when partially assembled:
 0. ![Partially Assembled](https://github.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/raw/master/partially_assembled.jpg)
 0. Now prepare the router clamp as follows:
-    0. There are four parts to the router clamp, two per STL file (v3_body_clamp_upper_half_pair.stl &amp; v3_body_clamp_lower_half_braced_pair.stl).
+    0. There are four parts to the router clamp, two per STL file (v3_body_clamp_back_half_pair.stl &amp; v3_body_clamp_front_half_braced_pair.stl).
     0. The two parts of the "lower half" join together with the cylindrical pegs, one to the other. Join them together now. (They will probably never come apart once joined, but if you want to be extra safe, put some CA glue in the holes before you join them.) (Note: ignore that in the photo both halves have that smiley-face cutout; yours will only have that on the "bottom" piece.)
     0. ![Join Lower Half](https://github.com/MaslowCommunityGarden/Yet-Another-Z-Axis-Mod/raw/master/join_lower_half.jpg)
     0. The two parts of the "upper" half don't physically join, but you will install them bearing-holder to bearing-holder.
@@ -87,7 +87,7 @@
 0. Place the Router
     0. Now it's time to place the router. Lay it into the groove created by the two top-half clamps with the front of the router facing towards the hose coupler.
     0. If you had previously greased your router body, as is recommended for the stock kit, clean that grease off before placing it. We don't need it slipping inside the clamp.
-    0. Leave about 3/4" or so of the router body visible below the bottom-most part of the clamp. (You can fine-tune the placement later if you find you have too much or too little vertical range.)
+    0. Leave about an inch or so of the router body visible below the bottom-most part of the clamp. (You can fine-tune the placement later if you find you have too much or too little vertical range.)
     0. The braced-pair "lower" half of the router clamp needs to be mounted to hold it in place. Be sure you place the lower half correctly: with the "smiley" hole and the cleat-screws closer to the sled.
     0. Use 4 M8x35mm bolts and M8 square nuts to secure the lower half of the clamp. It can be a bit tricky to place the nuts, hold the router, and screw things together. It's a bit easier if you flip the whole rig on its back on a table.
     0. It's not horribly important that you have your router precisely facing the hose opening, but get it as close to that as possible. If you mount it wrong, the power cord and back part of the router can make contact with the axis cap and cause runtime issues.
